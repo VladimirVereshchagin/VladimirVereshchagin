@@ -1,8 +1,6 @@
-## Hello, I'm Vladimir! 👋  
+### Hello, I'm Vladimir! 👋  
 
 A Golang developer building high-performance and scalable web applications using Docker and CI/CD. I value clean code, robust architecture, and strive to enhance team results through collaboration and knowledge sharing.
-
----
 
 ## 🔗 Contacts  
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vrsvladimir) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrsvladimirgo@gmail.com)
