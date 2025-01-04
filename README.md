@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Владимир! 👋  
+Go/Golang-разработчик с опытом работы над проектами Telegram-ботов, веб-приложениями и утилитами для автоматизации.
 
-<!--
-**VladimirVereshchagin/VladimirVereshchagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Мои проекты:
+- **[Scheduler](https://github.com/VladimirVereshchagin/scheduler)** — веб-приложение для управления задачами на Go с REST API, JWT-аутентификацией и использованием SQLite.
+- **[Telegram Exporter](https://github.com/VladimirVereshchagin/telegram_exporter)** — Python-утилита для экспорта сообщений Telegram в базу данных SQLite с поддержкой CSV/JSON.
 
-Here are some ideas to get you started:
+## 🚀 Технологии:
+- **Языки программирования:** Go, Python  
+- **Базы данных:** PostgreSQL, SQLite  
+- **Инструменты и платформы:** Docker, Git, Linux, GitHub Actions (CI/CD)  
+- **Протоколы:** REST API, JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub статистика:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=VladimirVereshchagin&show_icons=true&theme=tokyonight)  
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirVereshchagin&layout=compact&theme=tokyonight)
+
+## 📝 Связаться со мной:
+- **Telegram:** [@vrsvladimir](https://t.me/vrsvladimir)  
+- **Email:** [vrsvladimirgo@gmail.com](mailto:vrsvladimirgo@gmail.com)  
+- **GitHub:** [VladimirVereshchagin](https://github.com/VladimirVereshchagin)
